@@ -2,7 +2,7 @@
 ##### (Red stands for DY sample and Blue stands for ttbar sample)
 ------
 * ### Electron_deltaEtaSC
-<img decoding="async" src="/Users/zhuoru/roott/TMVA/Images/DY_ttbar_muon_ele/Electron_deltaEtaSC.png" width="90%">
+<img decoding="async" src="https://github.com/zhurli/TMVA-Variable/tree/master/Images/DY_ttbar_muon_ele/Electron_deltaEtaSC.png" width="90%">
 
 * ### Electron_dr03EcalRecHitSumEt
 <img decoding="async" src="/Users/zhuoru/roott/TMVA/Images/DY_ttbar_muon_ele/Electron_dr03EcalRecHitSumEt.png" width="90%">
